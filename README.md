@@ -20,7 +20,5 @@ will help us understand what is happening. You can include:
 
 ## Attribution
 
-## Attribution
-
-* Governance section adapted from [Contributor Covenant's * CODE_OF_CONDUCT.md](https://github.com/ContributorCovenant/contributor_covenant/blob/master/CODE_OF_CONDUCT.md), which is licensed under the MIT license.
+* Governance section adapted from [Contributor Covenant's CODE_OF_CONDUCT.md](https://github.com/ContributorCovenant/contributor_covenant/blob/master/CODE_OF_CONDUCT.md), which is licensed under the MIT license.
 * Report information adapted from [Wikimedia Foundation's Code of Conduct draft](https://www.mediawiki.org/wiki/Code_of_Conduct/Draft), which is licensed under the CC BY-SA 3.0 license.
