@@ -1,4 +1,4 @@
-# Code of conduct
+# Code of Conduct
 
 All Lyft open source projects are governed by the Contributor Covenant
 version 1.4 (http://contributor-covenant.org/version/1/4/code_of_conduct.md).
